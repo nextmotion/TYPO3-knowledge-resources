@@ -2,7 +2,7 @@
 
 We try to maintain a list of blogs, websites, events etc. where you can find information about TYPO3.
 
-Anything missing? Feel free to contribute us with a pull request.
+Anything missing or outdated? Feel free to [edit and make a pull request](https://github.com/nextmotion/TYPO3-knowledge-resources/edit/master/README.md).
 
 ## TYPO3 official
 
