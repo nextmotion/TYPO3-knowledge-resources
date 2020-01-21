@@ -8,6 +8,12 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 
 - [All events publishes by typo3.org](https://typo3.org/community/events/)
 - [TYPO3 news](https://typo3.org/project/news/)
+- [TYPO3 Security Advisories](https://typo3.org/help/security-advisories/)
+- [TYPO3 Documentation](https://docs.typo3.org/)
+- [TYPO3 Book](https://www.typo3book.com/)
+- [TYPO3 Company](https://typo3.com/)
+- [TYPO3 YouTube](https://www.youtube.com/user/typo3)
+- [TYPO3 Twitter](https://twitter.com/typo3)
 
 ## Newsletters 
 
@@ -18,6 +24,8 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/typo3) - official recommended way for questions 
 - [Official Slack Channel](https://wiki.typo3.org/Slack)  
 - [Inofficial TYPO3.net board](https://www.typo3.net) (German)
+- [Reddit](https://www.reddit.com/r/TYPO3/)
+- [SkiLLDiSPLAY](https://www.skilldisplay.eu/) Learning platform with learning skill tree
 
 ## Blogs
 
@@ -31,6 +39,10 @@ All blogs are active and updated periodically.
 - [TYPO3 CODEBEISPIELE UND HILFEN](https://blog.matthaa.de) blog of Matthias Haack a TYPO3 bronze member (German)
 - [TYPO3 blog](https://www.richardhaeser.com/typo3-blog) of TYPO3 developer Richard Haeser
 - [NITSAN technologies blog](https://www.nitsan.in/de/blog/) a very active Indian TYPO3 company
+- [Helmut Hummel - doc_core_insight](https://insight.helhum.io)
+- [SCRIPTING-BASE](https://scripting-base.de/blog.html)
+- [A TechBlog by Torben Hansen](https://www.derhansen.de/)
+- [Daniel Siepmann](https://daniel-siepmann.de/filtered-blog-posts/topic/typo3.html)
 
 ## TYPO3 camps / conferences
 
@@ -42,8 +54,9 @@ TYPO3 camps are a fantastic opportunity to get in contact with other TYPO3 enthu
 - [TYPO3camp // Mitteldeutschland, Germany](https://www.typo3camp-mitteldeutschland.de)
 - [TYPO3camp // RheinRuhr, Germany](https://www.typo3camp-rheinruhr.de)
 - [TYPO3camp // Munich](https://www.typo3camp-munich.de)
+- [TYPO3camp // Stuttgart](https://t3cs.de/)
 - [TYPO3camp // Vienna, Austria](https://www.typo3camp.at)
-- [TYPO3camp // Schweiz, Austria](https://www.typo3camp.ch)
+- [TYPO3camp // changing city, Switzerland](https://www.typo3camp.ch)
 - [Web Camp Venlo (formerly TYPO3Camp Venlo), Netherlands](https://www.webcampvenlo.nl)
 - [T3 Board, Europe & Canada](https://t3board.typo3.org)
 
