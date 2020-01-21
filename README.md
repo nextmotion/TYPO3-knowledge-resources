@@ -53,7 +53,7 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 
 ### Germany
 
-- **Berlin** // [Berliner TYPO3 User Group (BTUG) TYPO3 Meetup Munich (MTUG)](https://www.btug.org)
+- **Berlin** // [Berliner TYPO3 User Group (BTUG)](https://www.btug.org)
 - **Bodensee** // [TYPO3 Usergroup Bodensee](https://t3see.de)
 - **Chemnitz** // [TYPO3 Usergroup Chemnitz/Südwestsachsen](https://www.meetup.com/TYPO3-Usergroup-Chemnitz-Sudwestsachsen/)
 - **Düsseldorf** // [TYPO3 Usergroup Düsseldorf #TUGDUS](https://www.meetup.com/TYPO3-User-Group-Dusseldorf/)
