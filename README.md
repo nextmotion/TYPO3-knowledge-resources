@@ -15,6 +15,10 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 - [TYPO3 YouTube](https://www.youtube.com/user/typo3)
 - [TYPO3 Twitter](https://twitter.com/typo3)
 
+## Useful resources
+
+- [TYPO3 CMS backend icons](https://typo3.github.io/TYPO3.Icons/index.html) - a full list of included backend icons.
+
 ## Newsletters 
 
 - [TYPO3 Newsletter](https://jweiland.net/typo3-newsletter.html) from jweiland and the [archiv](https://jweiland.net/typo3-newsletter/typo3-newsletter-archiv.html) - approx. 6-12 newsletter per year 
