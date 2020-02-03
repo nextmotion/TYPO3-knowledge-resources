@@ -98,3 +98,8 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 - **Switzerland** // [User Group Switzerland - CHTUG](https://www.meetup.com/TYPO3-User-Group-Schweiz)
 - **Switzerland, Bern** // [TYPO3 User Group Bern](https://www.meetup.com/TYPO3-User-Group-Bern/)
 - **Ukraine** // [TYPO3 CMS Ukrainian community](https://www.typo3.org.ua)
+
+## TYPO3 helpful links
+
+### FLUID
+- [24 TIPS & TRICKS FOR FLUID](https://usetypo3.com/24-fluid-tips.html#c427)
