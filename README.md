@@ -106,8 +106,8 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 
 - [Composer Introduction and TYPO3 Implications - T3CRR - 2019 - Helmut Hummell](https://youtu.be/oxMCPVXHwv0)
 - [Custome Node Registry für die FormEngine - T3CRR - 2019 - Volker Kemeter](https://youtu.be/nZOcCYjxrWA)
-- [JavaScript in eigenen Backend Controls und Typescript Compiling - T3CRR - 2019 - Sebastian Fischer]- [JSON API am Beispiel toujou - T3CRR - 2019 - Thomas Maroschik](https://youtu.be/WoOuNe_rzpM)
-(https://youtu.be/THkYg6k1Hno)
+- [JavaScript in eigenen Backend Controls und Typescript Compiling - T3CRR - 2019 - Sebastian Fischer](https://youtu.be/THkYg6k1Hno)
+- [JSON API am Beispiel toujou - T3CRR - 2019 - Thomas Maroschik](https://youtu.be/WoOuNe_rzpM)
 - [TYPO3 Migration with help TYPO3 code scanner - T3CRR - 2019 - Michiel Roos](https://youtu.be/y3LzpmGzI4o)
 
 ### FLUID
