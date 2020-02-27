@@ -18,6 +18,9 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 ## Useful resources
 
 - [TYPO3 CMS backend icons](https://typo3.github.io/TYPO3.Icons/index.html) - a full list of included backend icons.
+- [TYPO3 extensions on Packagist.com](https://packagist.org/?query=typo3-cms-extension&type=typo3-cms-extension) - based on type "typo3-cms-extension"
+- [TER = TYPO3 extension repository](https://extensions.typo3.org) - official extension repository
+
 
 ## Newsletters 
 
