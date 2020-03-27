@@ -50,6 +50,7 @@ All blogs are active and updated periodically.
 - [SCRIPTING-BASE](https://scripting-base.de/blog.html)
 - [A TechBlog by Torben Hansen](https://www.derhansen.de/)
 - [Daniel Siepmann](https://daniel-siepmann.de/filtered-blog-posts/topic/typo3.html)
+- [Sebastian Klein](https://www.sebkln.de/) blog by Sebastian Klein (German/English)
 
 ## TYPO3 camps / conferences
 
