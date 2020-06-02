@@ -50,6 +50,7 @@ All blogs are active and updated periodically.
 - [SCRIPTING-BASE](https://scripting-base.de/blog.html)
 - [A TechBlog by Torben Hansen](https://www.derhansen.de/)
 - [Daniel Siepmann](https://daniel-siepmann.de/filtered-blog-posts/topic/typo3.html)
+- [npostnik.de](https://www.npostnik.de/category/typo3/)
 
 ## TYPO3 camps / conferences
 
