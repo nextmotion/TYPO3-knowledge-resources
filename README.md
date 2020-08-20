@@ -9,6 +9,8 @@ Anything missing or outdated? Feel free to [edit and make a pull request](https:
 - [All events publishes by typo3.org](https://typo3.org/community/events/)
 - [TYPO3 news](https://typo3.org/project/news/)
 - [TYPO3 Security Advisories](https://typo3.org/help/security-advisories/)
+- [TYPO3 ChangeLog](https://docs.typo3.org/c/typo3/cms-core/master/en-us/)
+- [TYPO3 Release Notes (every version)](https://get.typo3.org/release-notes/10)
 - [TYPO3 Documentation](https://docs.typo3.org/)
 - [TYPO3 Book](https://www.typo3book.com/)
 - [TYPO3 Company](https://typo3.com/)
