@@ -50,6 +50,7 @@ All blogs are active and updated periodically.
 - [SCRIPTING-BASE](https://scripting-base.de/blog.html)
 - [A TechBlog by Torben Hansen](https://www.derhansen.de/)
 - [Daniel Siepmann](https://daniel-siepmann.de/filtered-blog-posts/topic/typo3.html)
+- [B13 Blog](https://b13.com/blog)
 
 ## TYPO3 camps / conferences
 
@@ -101,6 +102,7 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 - **Switzerland** // [User Group Switzerland - CHTUG](https://www.meetup.com/TYPO3-User-Group-Schweiz)
 - **Switzerland, Bern** // [TYPO3 User Group Bern](https://www.meetup.com/TYPO3-User-Group-Bern/)
 - **Ukraine** // [TYPO3 CMS Ukrainian community](https://www.typo3.org.ua)
+- **Rwanda** // [TYPO3 in Rwanda Africa] (https://www.facebook.com/groups/typo3.rwanda)
 
 ## TYPO3 helpful links
 
