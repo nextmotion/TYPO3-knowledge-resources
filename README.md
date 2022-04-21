@@ -121,3 +121,6 @@ You can find a list of [usergroups](https://typo3.org/community/meet/user-groups
 
 ### FLUID
 - [24 TIPS & TRICKS FOR FLUID](https://usetypo3.com/24-fluid-tips.html#c427)
+
+### TYPO3 Knowledge
+- [Filelist recycler](https://www.next-motion.de/thema/typo3-papierkorb-fuer-dateien-ultimativer-guide-2022)
